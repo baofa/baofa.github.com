@@ -18,7 +18,7 @@ body{font-size:14px; font-family:Arial, "宋体"; color:#666;}
   .index_flash{width:1005px; height:381px; margin:0 auto; background:url(../images/banner_bottom.jpg) no-repeat bottom; padding-bottom:23px; padding-top:20px;}
 .banner_box{width:100%; height:247px; background:url(../images/banner_bj.jpg);}
   .banner{width:1005px; height:195px; margin:0 auto; padding-top:29px; background:url(../images/banner_bottom.jpg) no-repeat bottom; padding-bottom:23px;}
-  
+  .banner img{width: 1004px; height: 194px}
   
 .body_b{width:100%; overflow:hidden; background:url(../images/bj.jpg) repeat-x top #f5f5f5; padding-top:15px;}
 .body_box{width:1005px; overflow:hidden; margin:0 auto; padding-bottom:140px;}
